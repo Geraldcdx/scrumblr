@@ -1,4 +1,4 @@
-scrumblr
+scrumblr clone just for testing ci/cd
 ========
 
 what is it
